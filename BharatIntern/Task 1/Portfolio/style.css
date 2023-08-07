@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(/images//bdbgi.jpg);
+    background-size: 80rem ,50rem;
+}
+
+.header{
+    height: 2%;
+    margin-top:1rem;
+    margin-left: 2rem;
+}
+
+.footer{
+    background-image: linear-gradient(rgba(47, 43, 43, 0.066),rgb(40, 31, 31));
+    height: 15rem;
+    margin-top:17%;
+}
+
+.footerdet{
+   margin-left: 75%;
+}
+
+.about{
+    color: #e9e2e2;
+   margin-left: 2rem;
+   margin-top: -7rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+h1{
+    color: #f09308;
+    font-size: 3.5rem;
+}
+
+h2{
+    font-size: 2rem;
+    color: #0fef56;
+}
+
+h3{
+    color: #f8f9f7;
+}
+
+h4{
+    color: #f8f9f7;
+    font-size: 2rem;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+meter{
+    font-size: 5rem;
+}
+
+.heading1{
+    margin-left: 67%;
+    margin-top: -3rem;
+}
+
+.heading2{
+    margin-left: 75%;
+    margin-top: -1.6rem;
+}
+
+.heading3{
+    margin-left: 82.5%;
+    margin-top: -1.8rem;
+}
+
+.heading4{
+    margin-left: 91.8%;
+    margin-top: -1.8rem;
+}
+
+.intro{
+    margin-top: 15rem;
+    margin-left: 6rem;
+    margin-bottom: 15rem;
+}
+
+img{
+    height: 40rem;
+    width: 35rem;
+}
+
+.imcont{
+    margin-left: 60%;
+    margin-top: -30.5%;
+}
+
+.imcont1{
+    margin-left: 60%;
+    margin-top: -65%;
+}
+
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .skilcont{
+    margin: 8rem;
+  }
